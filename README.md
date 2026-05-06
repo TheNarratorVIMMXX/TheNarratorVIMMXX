@@ -51,8 +51,8 @@ Also I have experience in game development using Pygame and Arcade, applying con
     <td>
       <img src="https://skillicons.dev/icons?i=python" title="Python"/>
       <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-      <img src="assets/Pygame.ico" title="Pygame"/>
-      <img src="assets/Arcade.ico" title="Arcade Library"/>
+      <img src="assets/Pygame.ico" height="40" width="40" title="Pygame"/>
+      <img src="assets/Arcade.ico" height="40" width="40" title="Arcade Library"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
     </td>
   </tr>
