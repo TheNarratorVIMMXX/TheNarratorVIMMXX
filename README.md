@@ -21,21 +21,6 @@ Also I have experience in game development using Pygame and Arcade, applying con
 
 ---
 
-## 🖥️ My Projects
-
-1. [PythonTkinter](https://github.com/TheNarratorVIMMXX/PythonTkinter) — **14 GUI exercises with Python & Tkinter**
-2. [FlappyBird](https://github.com/TheNarratorVIMMXX/FlappyBird) — **Flappy Bird clone (Videogame)**
-3. [EduMath](https://github.com/TheNarratorVIMMXX/EduMath) — **Educational math videogame**
-4. [GeoFrame](https://github.com/TheNarratorVIMMXX/GeoFrame) — **Geometry-based project**
-5. [LetterCards](https://github.com/TheNarratorVIMMXX/LetterCards) — **Letter flashcard videogame**
-6. [SoccerCards](https://github.com/TheNarratorVIMMXX/SoccerCards) — **Soccer card collection videogame**
-7. [ScolarRecord](https://github.com/TheNarratorVIMMXX/ScolarRecord) — **Student records system**
-8. [PythonBasicExams](https://github.com/TheNarratorVIMMXX/PythonBasicExams) — **Python practice exercises**
-9. [Zhyniria](https://github.com/TheNarratorVIMMXX/Zhyniria) — **Zhyniria project (Videogame)**
-10. [ParkingPaymentSystem](https://github.com/TheNarratorVIMMXX/ParkingPaymentSystem) — **Parking payment system**
-
----
-
 ## 🛠️ Stack
 
 <table>
@@ -51,7 +36,7 @@ Also I have experience in game development using Pygame and Arcade, applying con
     <td>
       <img src="https://skillicons.dev/icons?i=python" title="Python"/>
       <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-      <img src="assets/Pygame.ico" height="40" width="40" title="Pygame"/>
+      <img src="assets/Pygame.ico" height="60" width="80" title="Pygame"/>
       <img src="assets/Arcade.ico" height="40" width="40" title="Arcade Library"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
     </td>
