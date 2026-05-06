@@ -1,6 +1,16 @@
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mon&size=26&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Magallanes;Junior+Software+Dev;Building+cool+things+from+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+```
+
+ █████╗ ██╗     ███████╗     ██╗ █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗
+██╔══██╗██║     ██╔════╝     ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
+███████║██║     █████╗       ██║███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║
+██╔══██║██║     ██╔══╝  ██   ██║██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║
+██║  ██║███████╗███████╗╚█████╔╝██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+
+```
 
 </div>
 
@@ -15,14 +25,20 @@ Also I have experience in game development using Pygame and Arcade, applying con
 - 🔭 Open to project collaborations
 - 📫 You can reach me through:
 
+<div align="center">
+  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgmagallanes23@gmail.com)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/carlos-gabriel-magallanes-lopez-940179398)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheNarratorVIMMXX)
+</div>
 
 ---
 
+
+
 ## 🛠️ Stack
 
+<div align="center">
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -61,6 +77,7 @@ Also I have experience in game development using Pygame and Arcade, applying con
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -68,7 +85,7 @@ Also I have experience in game development using Pygame and Arcade, applying con
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=TheNarratorVIMMXX&theme=tokyonight&title_color=FFD43B&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=TheNarratorVIMMXX&theme=tokyonight&title_color=FFD43B&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
