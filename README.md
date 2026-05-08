@@ -23,8 +23,6 @@ Also I have experience in game development using Pygame and Arcade, applying con
 
 ---
 
-
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -41,8 +39,18 @@ Also I have experience in game development using Pygame and Arcade, applying con
     <td>
       <img src="https://skillicons.dev/icons?i=python" title="Python"/>
       <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Graphics</strong></td>
+    <td>
       <img src="assets/Pygame.ico" height="60" width="80" title="Pygame"/>
       <img src="assets/Arcade.ico" height="40" width="40" title="Arcade Library"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Visualization</strong></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
     </td>
   </tr>
