@@ -32,6 +32,7 @@ Also I have experience in game development using Pygame and Arcade, applying con
     <td>
       <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
       <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
     </td>
   </tr>
   <tr>
@@ -42,16 +43,18 @@ Also I have experience in game development using Pygame and Arcade, applying con
     </td>
   </tr>
   <tr>
-    <td><strong>Graphics</strong></td>
+    <td><strong>Game Dev</strong></td>
     <td>
       <img src="assets/Pygame.ico" height="60" width="80" title="Pygame"/>
       <img src="assets/Arcade.ico" height="40" width="40" title="Arcade Library"/>
+      <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
     </td>
   </tr>
   <tr>
     <td><strong>Visualization</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120" title="Seaborn"/>
     </td>
   </tr>
   <tr>
@@ -83,7 +86,7 @@ Also I have experience in game development using Pygame and Arcade, applying con
 <div align="center">
 
   <img src="https://streak-stats.demolab.com/?user=TheNarratorVIMMXX&theme=tokyonight&title_color=FFD43B&hide_border=true" alt="GitHub Streak"/>
-
+  
 </div>
 
 ---
